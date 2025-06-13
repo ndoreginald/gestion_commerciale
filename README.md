@@ -1,7 +1,7 @@
 
 ## 🛍️ Application de Gestion Commerciale
 
-Cette application web complète a été développée en **React.js** (frontend) et **Node.js / Express** (backend), avec une base de données **MongoDB**. Elle permet de gérer efficacement les processus commerciaux d'une entreprise, notamment la **gestion des produits, achats, ventes, stocks, clients, fournisseurs**, et la génération de **factures et devis**.
+Cette application web a été développée en **React.js** (frontend) et **Node.js / Express** (backend), avec une base de données **MongoDB**. Elle permet de gérer les processus commerciaux d'une entreprise, notamment la **gestion des produits, achats, ventes, stocks, clients, fournisseurs**, et la génération de **factures et devis**. A noter que le developpement n'est pas terminé.
 
 ---
 
